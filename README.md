@@ -26,4 +26,4 @@
 
 # "COUNTER-SCREEN"
 
-![Counter-screen](screenshot/counterscreen.png)
+![Counter-screen](counterscreen.png)
